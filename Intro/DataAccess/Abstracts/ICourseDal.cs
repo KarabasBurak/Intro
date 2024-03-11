@@ -11,6 +11,6 @@ namespace Intro.DataAccess.Abstracts
     {
         List<Course> GetAll();
         void Add(Course course);
-
+          
     }
 }
